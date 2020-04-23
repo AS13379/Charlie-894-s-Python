@@ -2,18 +2,12 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
 | Version | Supported            |
 | ------- | ------------------   |
 | > 1.0.0   | :white_check_mark: |
 | < 0.0.9   | :x:                |
 
 ## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+If the file you downloaded contains a vulnerability, you have the following treatment:
+Contact the author at lipengcheng1010@126.com
+Delete the file on your computer
