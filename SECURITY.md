@@ -9,5 +9,5 @@
 
 ## Reporting a Vulnerability
 If the file you downloaded contains a vulnerability, you have the following treatment:
-Contact the author at lipengcheng1010@126.com
+Contact the author at lipengcheng1010@126.com，and 
 Delete the file on your computer
