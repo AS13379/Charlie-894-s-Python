@@ -3,7 +3,7 @@
 Introduction:
 This describes the data source that contains the repository and how the repository can help you.
 Library content library source: data, projects, programs and documents in the library are all from Charlie896 original works (some reproduced), please identify Charlie894 CSDN ID: LPC1010,
-Zhihu user name: "program monkey", email :lipengcheng@126.com, LPC1010@Outlook.com, other sources and
+Zhihu user name: "Charlie894", email :lipengcheng@126.com, LPC1010@Outlook.com, liPengCheng894@Gmail.com，charlie894@163.com other sources and
 'Charlie894' user name and your dialogue, are telecom fraud, thank you.
 How can we help you?
 This repository contains many things that you may need.
@@ -12,7 +12,7 @@ This repository contains a lot of utility files, you can download, but in the tr
 介紹:
 此描述包含存儲庫的數據源以及存儲庫如何幫助您。
 庫內容庫來源:庫中的數據、項目、程序和文檔，均來自Charlie896個人原創作品(部分轉載)，請識別Charlie894 CSDN ID: LPC1010，
-知乎用戶名:“程序猿”，郵箱:lipengcheng@126.com, LPC1010@Outlook.com，其他來源與
+知乎用戶名:“Charlie894”，郵箱:lipengcheng@126.com, LPC1010@Outlook.com，Charlie894@163.com,liPengCheng894@Gmail.com其他來源與
 'Charlie894'的用戶名和您的對話，都是電信詐騙，謝謝。
 我們如何幫助您？
 本儲存庫包含許多您可能會需要的內容。
@@ -21,7 +21,7 @@ This repository contains a lot of utility files, you can download, but in the tr
 介绍:
 此描述包含存储库的数据源以及存储库如何帮助您。
 库内容库来源:库中的数据、项目、程序和文档，均来自Charlie896个人原创作品(部分转载)，请识别Charlie894 CSDN ID: LPC1010，
-知乎用户名:“程序猿”，邮箱:lipengcheng@126.com, LPC1010@Outlook.com，其他来源与
+知乎用户名:“Charlie894”，邮箱:lipengcheng@126.com, LPC1010@Outlook.com，Charlie894@163.com,liPengCheng894@Gmail.com其他来源以
 'Charlie894'的用户名和您的对话，都是电信诈骗，谢谢。
 我们如何帮助您？
 本储存库包含许多您可能会需要的内容。
